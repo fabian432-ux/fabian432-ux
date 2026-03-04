@@ -1,4 +1,4 @@
-** Hi there! 👋 I'm Fabian. **
+**Hi there! 👋 I'm Fabian.**
 
 I am an electronics student focused on hardware design, PCB routing, and microcontroller programming. My repositories feature a mix of physical computing prototypes, discrete circuit designs, and hardware verification projects. 
 
