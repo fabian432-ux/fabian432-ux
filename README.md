@@ -1,8 +1,10 @@
 Hi there! 👋 I'm Fabian.
 
-I am an electronics and embedded systems developer focused on hardware design, PCB routing, and microcontroller programming. My repositories feature a mix of physical computing prototypes, discrete circuit designs, and hardware verification projects. 
+I am an electronics student focused on hardware design, PCB routing, and microcontroller programming. My repositories feature a mix of physical computing prototypes, discrete circuit designs, and hardware verification projects. 
 
 Whether I am designing power regulators in OrCAD or programming interactive ESP32 systems in C/C++, I enjoy the process of turning theoretical schematics into functional hardware.
+
+**What I do:**
 
 ### Simulation
 ![LTspice](https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge)
